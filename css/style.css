@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box; 
+}
+
+body {
+    margin: auto;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/intersection.png");
+}
+
+.header {
+    background-color: #ffffff;
+    height: 90px;
+    margin-bottom: 25px;
+    width: 100%;
+    border-bottom: 3px solid #cccccc;
+}
+
+.name {
+    background-color: #4aaaa5;
+    color:  white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float:  left;
+    padding: 25px;
+    margin-right: 450px;
+    margin-bottom: 25px;
+    margin-left: 20%;
+    margin-top: 0;
+}
+
+.links {
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+}
+
+.links2 {
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 1px solid #cccccc;
+    float: left;
+}
+
+.title {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    border-bottom: 2px solid #dddddd;
+    width: 920px;
+}
+
+#bio-image {
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.para {
+    float: left;
+    margin-left: 25px;
+    width: 70%;
+}
+
+.section1 {
+    background-color: #ffffff;
+    border: 1px;
+    border-color: #dddddd;
+    border-style: solid;
+    height: 450px;
+    width: 960px;
+    margin-left: 20%;
+}
+
+footer {
+    height: 60px;
+    width: 100%;
+    background-color: #666666;
+    bottom: 0;
+    position: absolute;
+    border-top: 5px solid #4aaaa5;
+}
