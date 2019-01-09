@@ -1,0 +1,40 @@
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #4aaaa5;
+  }
+  
+  .container {
+    border-radius: 5px;
+    padding: 20px;
+    
+  }
+
+  .section2 {
+    background-color: #ffffff;
+    border: 1px;
+    border-color: #dddddd;
+    border-style: solid;
+    height: 550px;
+    width: 960px;
+    margin-left: 20%;
+    margin-bottom: 30px;
+  }

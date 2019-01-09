@@ -1,0 +1,45 @@
+.section3 {
+    background-color: #ffffff;
+    border: 1px;
+    border-color: #dddddd;
+    border-style: solid;
+    height: 825px;
+    width: 960px;
+    margin-left: 20%;
+    margin-bottom: 30px;
+  }
+
+  #hangman {
+      float: left;
+      margin-left: 35px;
+      margin-right: 10px;
+  }
+
+  #rpg {
+    float: left;   
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
+#trivia {
+    float: left;
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
+#widget {
+  float: left;   
+  margin-left: 35px;
+  margin-right: 10px;
+}
+
+#rps {
+    float: left;   
+    margin-left: 35px;
+    margin-right: 10px;
+  }
+
+img {
+    height: 200px;
+    width: 275px;
+}
