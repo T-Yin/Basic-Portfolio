@@ -37,6 +37,7 @@ body {
     position: absolute;
     color: #777777;
     right: 450px;
+    text-decoration: none;
 }
 
 .links2 {
@@ -48,6 +49,7 @@ body {
     position: absolute;
     color: #777777;
     right: 350px;
+    text-decoration: none;
 }
 
 .links3 {
@@ -59,6 +61,7 @@ body {
     position: absolute;
     color: #777777;
     right: 250px;
+    text-decoration: none;
 }
 
 .title {
